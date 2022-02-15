@@ -24,16 +24,16 @@
          "Type": "Aarti",
          "Icon": "http://www.medhash.net/icons/jaiJai_Aarti.png",
          "Name": "Jai Jai Aarti",
-         "Poster": "",
-         "Backdrop": "",
+         "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
          "Url": "http://www.medhash.net/audio/jaiJai_Aarti.mp3"
       },
       {
          "ID": "3",
          "Type": "Aarti",
          "Icon": "http://www.medhash.net/icons/Panchapadi.mp3.png",
-         "Poster": "",
-         "Backdrop": "",
+         "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hF45Kju0el0e0Wc3DT8dBZU1eD3.jpg",
+         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hF45Kju0el0e0Wc3DT8dBZU1eD3.jpg",
          "Name": "PanchaPadi",
          "Url": "http://www.medhash.net/audio/Panchapadi.mp3"
       },
@@ -42,40 +42,10 @@
          "ID": "4",
          "Type": "Stotra",
          "Icon": "http://www.medhash.net/icons/chaitanya-stotra.png",
-         "Poster": "",
-         "Backdrop": "",
+         "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/btocnvK4l8a4BGS887ed3lsTFog.jpg",
+         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/btocnvK4l8a4BGS887ed3lsTFog.jpg",
          "Name": "Chaitanya Stotra",
          "Url": "http://www.medhash.net/audio/chaitanya-stotra.mp3"
-      },
-      
-      {
-         "ID": "5",
-         "Type": "Stotra",
-         "Icon": "http://www.medhash.net/icons/Haachi_Subodh_Guruncha.png",
-         "Poster": "",
-         "Backdrop": "",
-         "Name": "Haachi Subodh Guruncha",
-         "Url": "http://www.medhash.net/audio/Haachi_Subodh_Guruncha.mp3"
-      },
-      
-      {
-         "ID": "6",
-         "Type": "Bhajan",
-         "Icon": "http://www.medhash.net/icons/ramstuti.png",
-         "Poster": "",
-         "Backdrop": "",
-         "Name": "Ram Stuti",
-         "Url": "http://www.medhash.net/audio/ramstuti.mp3"
-      },
-      
-      {
-         "ID": "7",
-         "Type": "Stotra",
-         "Icon": "http://www.medhash.net/icons/ramstuti.png",
-         "Poster": "",
-         "Backdrop": "",
-         "Name": "Ram Naam(1-Hour)",
-         "Url": "http://www.medhash.net/audio/onehr.mp3"
       }
       
       
