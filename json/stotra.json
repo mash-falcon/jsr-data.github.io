@@ -3,8 +3,8 @@
          "ID": "0",
          "Type": "Stotra",
          "Icon": "http://www.medhash.net/icons/ramaraksha_sanskrit.png",
-         "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/byYRjzd9epz1F9yG3hpDWn9zeIx.jpg",
-         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/byYRjzd9epz1F9yG3hpDWn9zeIx.jpg",
+         "Poster": "https://mash-falcon.github.io/jsr-data.github.io/images/Shriram.png",
+         "Backdrop": "https://mash-falcon.github.io/jsr-data.github.io/images/mandir.jpeg",
          "Name": "Ram Raksha",
          "Url": "http://www.medhash.net/audio/ramaraksha_sanskrit.mp3"
       },
@@ -15,7 +15,7 @@
          "Icon": "http://www.medhash.net/icons/bhimaroopi.png",
          "Name": "Bhimarupi",
          "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mWLTeuIbjQTBAPbNyRzmq78ZbCq.jpg",
-         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mWLTeuIbjQTBAPbNyRzmq78ZbCq.jpg",
+         "Backdrop": "https://mash-falcon.github.io/jsr-data.github.io/images/mandir.jpeg",
          "Url": "http://www.medhash.net/audio/bhimaroopi.mp3"
       },
       
@@ -25,7 +25,7 @@
          "Icon": "http://www.medhash.net/icons/jaiJai_Aarti.png",
          "Name": "Jai Jai Aarti",
          "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+         "Backdrop": "https://mash-falcon.github.io/jsr-data.github.io/images/mandir.jpeg",
          "Url": "http://www.medhash.net/audio/jaiJai_Aarti.mp3"
       },
       {
@@ -33,7 +33,7 @@
          "Type": "Aarti",
          "Icon": "http://www.medhash.net/icons/Panchapadi.mp3.png",
          "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hF45Kju0el0e0Wc3DT8dBZU1eD3.jpg",
-         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hF45Kju0el0e0Wc3DT8dBZU1eD3.jpg",
+         "Backdrop": "https://mash-falcon.github.io/jsr-data.github.io/images/mandir.jpeg",
          "Name": "PanchaPadi",
          "Url": "http://www.medhash.net/audio/Panchapadi.mp3"
       },
@@ -43,7 +43,7 @@
          "Type": "Stotra",
          "Icon": "http://www.medhash.net/icons/chaitanya-stotra.png",
          "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/btocnvK4l8a4BGS887ed3lsTFog.jpg",
-         "Backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/btocnvK4l8a4BGS887ed3lsTFog.jpg",
+         "Backdrop": "https://mash-falcon.github.io/jsr-data.github.io/images/mandir.jpeg",
          "Name": "Chaitanya Stotra",
          "Url": "http://www.medhash.net/audio/chaitanya-stotra.mp3"
       }
